@@ -1,3 +1,10 @@
-# Anonymous-Sender-Bot
+<p align="center" size="500px">
+  <img src="./img/download.jpg" alt="Anonymouse Logo">
+</p>
+<h1 align="center">
+  <b>Anonymous Sender - TG Bot</b>
+</h1><br><br>
 
-![Anonymous](https://telegra.ph/file/c77e7ac4b9f39659ac56f.jpg?size:200px?align:center)
+# Deploy
+
+
