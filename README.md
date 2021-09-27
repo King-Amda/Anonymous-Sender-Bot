@@ -13,4 +13,4 @@
 ![King Amda](https://github.com/King-Amda.png?size=100)
 
 # Credits
-![ImJanindu](https://github.com/ImJanindu)
+![ImJanindu](https://github.com/ImJanindu.png?size=100)
