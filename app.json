@@ -1,0 +1,28 @@
+{
+    "name": "Anonymous Sender Bot",
+    "description": "Advanced anonymous sender bot with caption editor.",
+    "keywords": [
+        "CaptionEditor",
+        "AnonymousSender",
+        "Telegram Bot",
+        "KingAmdaa"
+    ],
+    "repository": "https://github.com/King-Amda/Anonymous-Sender-Bot",
+    "success_url": "http://kingamdaa.ga",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {"url": "heroku/python"}
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
